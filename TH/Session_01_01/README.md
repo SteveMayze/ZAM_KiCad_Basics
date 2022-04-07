@@ -1,3 +1,12 @@
 # ZAM KiCad Basics
 
-Introduces the elements of the opening project screen and creates the first project.
+## Session 1.1. Introduction.
+
+555 Timer
+https://tinyurl.com/yat9coag
+
+
+Transistor Flip Flop
+https://tinyurl.com/yaz2fxhg
+
+Describes the workflow for using KiCad 
