@@ -27,4 +27,6 @@ fp-info-cache
 
 **/*-backups/*
 .DS_Store**
+[Gg]erber*/
+*.zip
 
